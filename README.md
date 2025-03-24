@@ -55,12 +55,6 @@ npm run dev
 yarn dev
 ```
 
-## Despliegue
-El proyecto está configurado para ser desplegado en Vercel. Para un despliegue exitoso:
-1. Conecta tu repositorio con Vercel
-2. Configura las variables de entorno en el panel de Vercel
-3. ¡Listo! Tu aplicación estará en línea
-
 ## Demo
 Puedes ver una demo en vivo del proyecto aquí: https://social-rockin-app.vercel.app/
 
