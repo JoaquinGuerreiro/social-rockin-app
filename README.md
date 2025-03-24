@@ -62,12 +62,12 @@ El proyecto está configurado para ser desplegado en Vercel. Para un despliegue 
 3. ¡Listo! Tu aplicación estará en línea
 
 ## Demo
-Puedes ver una demo en vivo del proyecto aquí: [Link a tu demo en Vercel]
+Puedes ver una demo en vivo del proyecto aquí: https://social-rockin-app.vercel.app/
 
 ## Contacto
-- LinkedIn: [Tu perfil de LinkedIn]
-- Email: [Tu email profesional]
-- Portfolio: [Tu portfolio]
+- LinkedIn: www.linkedin.com/in/joaquin-guerreiro-apolonia
+- Email: joaquinguerreiro12@gmail.com
+- Portfolio: https://joaquin-guerreiro-app.vercel.app/
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT 
